@@ -1,0 +1,16 @@
+# Real DB credentials — never commit this file.
+# Copy db.properties.example to this filename and fill in your own values.
+db.properties
+src/main/resources/db.properties
+resources/db.properties
+ 
+# Compiled output
+bin/
+target/
+*.class
+ 
+# IDE files
+.idea/
+*.iml
+.vscode/
+ 
